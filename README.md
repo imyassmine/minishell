@@ -86,6 +86,6 @@ Interactive-only by design (it exits when stdin is not a TTY). Not implemented:
 control (`&`, `Ctrl-Z`, `jobs`, `fg`).
 
 ---
-
-Built at 42 Paris by Yassmine Abdallah ([@imyassmine](https://github.com/imyassmine)) and besch —
-my scope: lexer, recursive-descent parser, AST executor, expansion, heredocs and the garbage collector; my teammate owned builtins, redirections, environment and signal handling.
+*Built at [42 Paris](https://42.fr) by [Yassmine Abdallah (@imyassmine)](https://github.com/imyassmine)
+and besch.
+my scope: lexer, recursive-descent parser, AST executor, expansion, heredocs and the garbage collector; my teammate owned builtins, redirections, environment and signal handling.*
