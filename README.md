@@ -87,7 +87,5 @@ control (`&`, `Ctrl-Z`, `jobs`, `fg`).
 
 ---
 
-42 Paris pair project · Yassmine Abdallah ([@imyassmine](https://github.com/imyassmine)) —
-my scope: lexer, recursive-descent parser, AST executor, expansion, environment
-and the garbage collector; my teammate owned builtins, redirections, heredocs
-and signal handling.
+Built at 42 Paris by Yassmine Abdallah ([@imyassmine](https://github.com/imyassmine)) and besch —
+my scope: lexer, recursive-descent parser, AST executor, expansion, heredocs and the garbage collector; my teammate owned builtins, redirections, environment and signal handling.
